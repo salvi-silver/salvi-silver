@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @salvi-silver
+- 👋 Hi, I’m salvi-silver
 - 👀 I’m interested in dancing and making art
 - 🌱 I’m currently learning web design
 - 💞️ I love Bats
