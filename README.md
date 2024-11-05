@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web design
 - 💞️ I love Bats
 - 📫 How to reach me ; instagram, the username is the same!
-- ⚡ Fun fact: Becoming vegetarian was a huge missed steak.
+- ⚡ How do you make Holy Water? You boil the hell out of it.
 
 <!---
 salvi-silver/salvi-silver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
